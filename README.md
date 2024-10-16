@@ -1,7 +1,7 @@
 - 👋 Nelson Rossi Bittencourt
 - 👀 Electrical Engineer/Programmer
 - 🌱 Interests : C#, C++, Python, Q#, Embedded electronics, Microcontrollers.
-- 🌱 Web site  : http://www.nrbenergia.somee.com/ or https://nrbenergia.azurewebsites.net/
+- 🌱 Web sites  : http://www.nrbenergia.somee.com/ or https://nrbenergia.azurewebsites.net/
 
 <!---
 NelsonBittencourt/NelsonBittencourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
