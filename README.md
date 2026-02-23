@@ -1,6 +1,6 @@
 - 👋 Nelson Rossi Bittencourt
 - 👀 Electrical Engineer/Programmer
-- 🌱 Interests : C#, C++, Python, Q#, Embedded electronics, Microcontrollers.
+- 🌱 Interests : C, C#, C++, Python, Q#, Firmware, Embedded electronics, Microcontrollers.
 - 🌱 Web sites  : http://www.nrbenergia.somee.com/ or https://nrbenergia.azurewebsites.net/
 
 <!---
